@@ -9,10 +9,10 @@ The current process is described in details in [CIP1 - "CIP Process"](./CIP-0001
 | #                 | Title                                                                                                                                         | Status                |
 | ----------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------- |
 | 1 | [CIP process](./CIP-0001/CIP-0001.md) | Active |
-| 2 | [Coin Selection Algorithms for Cardano](./CIP-0002/CIP-0002.md) | Draft |
-| 3 | [Wallet key generation](./CIP-0003/CIP-0003.md) | Draft |
+| 2 | [Coin Selection Algorithms for Cardano](./CIP-0002/CIP-0002.md) | Active |
+| 3 | [Wallet key generation](./CIP-0003/CIP-0003.md) | Active |
 | 4 | [Wallet Checksums](./CIP-0004/CIP-0004.md) | Draft |
-| 5 | [Common Bech32 Prefixes](./CIP-0005/CIP-0005.md) | Draft |
+| 5 | [Common Bech32 Prefixes](./CIP-0005/CIP-0005.md) | Active |
 | 6 | [Stake Pool Extended Metadata](./CIP-0006/CIP-0006.md) | Draft |
 | 7 | [Curve Pledge Benefit](./CIP-0007/CIP-0007.md) | Draft |
 | 8 | [Message Signing](./CIP-0008/CIP-0008.md) | Draft |
